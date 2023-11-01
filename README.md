@@ -95,13 +95,43 @@ ie. €, €€, €€€, €€€€
 
 ## 6. Results
 1) Restaurant Distribution: 
--  The first part of the hypothesis is true. France is the country with most Michelin-rated restaurants. The second part of the hypothesis is mostly true for european countries. However, in asian and southamerican countries, michelin-rated restaurants are mostly located in the capital city.
+
+!['Image1'](images/michelin_top_10_countries.png)
+
+-  The first part of the hypothesis is true. France is the country with most Michelin-rated restaurants.
+
+!['Image2'](images/heatmap_countries.png)
+
+ The second part of the hypothesis is mostly true for european countries. However, in asian and southamerican countries, michelin-rated restaurants are mostly located in the capital city.
+
 2) Price Range and Ratings:
+
+!['Image3'](images/Distr_googleratings_stars.png)
 - The boxplot supports the hypothesis that restaurants with more Michelin stars tend to have higher Google ratings. The trend is clear and consistent across the different Michelin star categories.
+
+!['Image4'](images/Distr_googleratings_price.png)
+- The sames happens with price range. Michelin-Rated Restaurants with higher price tend to have higher Google ratings.
+
 3) Cuisine Popularity:
-- The hypthoesis is true. There is a clear difference  between the Moder Cuisine and the next category that in this case is "Creative".
+
+!['Image6'](images/top5_cuisines.png)
+- The hypthoesis is true. There is a clear difference  between the Moder Cuisine and the next category that in this case is "Creative". This could be because Modern Cuisine requires very high-level techniques that envolves many years of experience and a lot of organization and dedication from chefs. The desire to create new flavors, textures, and dining concepts often leads to the development of modern and avant-garde dishes.
+
+!['Image7'](images/cuisine_map.png)
+
+It is clear that in Europe there is a great inclination towards Modern cuisine. In exception of Italy that prefers Creative cuisine. In Asia and Southamerica there is a clear preference for regional food. Finally, in America there is a great preference towards Contemporay food, which is mostly Traditional dishes with a twist.
+
 4) Location-Based Analysis:
+
+!['Image8'](images/bcn_1and2_stars.png)
+
+!['Image9'](images/spain_top3_3stars.png)
+
 - Disfrutar is indeed in the top 3 list of the 2 Starred-Michelin Restaurants.
+
+!['Image10'](images/bcn_top10_bg.png)
+
+- In Barcelona there are a variety of very good restaurants with the Bib Gourmand award that are inexpensive or moderately priced.
 
 ## 7. Conclusions  
 - Most Michelin-rated restaurants are located in european countries.
